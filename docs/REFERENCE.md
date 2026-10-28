@@ -1,9 +1,16 @@
 # art-gallery-website source reference
 
-
-Source reviewed: [`1457cd5827fd`](https://github.com/noel-ult/art-gallery-website/commit/1457cd5827fd4dc70448c3b5b3eeef8d8d46ed1b).
+Source reviewed: [`f44692a9487c`](https://github.com/noel-ult/art-gallery-website/commit/f44692a9487c5e843fb33637ad402364aaff82ae).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
+
+## Existing documentation
+
+Historical plans/reports describe their own revision; use current source when they disagree.
+
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
